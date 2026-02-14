@@ -1,6 +1,6 @@
 # Steps for new projects
 
-Description: Sample pyproject.toml and scalfold for new projects
+Description: Sample pyproject.toml and scalffold for new projects
 
 0. Scaffold recommended
 
